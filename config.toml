@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://brave-river-0dca46803.1.azurestaticapps.net/"
-languageCode = "en-us"
-title = "Liva | Personal blog template"
+languageCode = "it-it"
+title = "Finanzami"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -45,17 +45,17 @@ disqusShortname = ""
 
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "Informazioni"
   URL = "about"
   weight = 1
 
   [[menu.main]]
-  name = "Post"
+  name = "Blog"
   URL = "blog"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
+  name = "Contatti"
   URL = "contact"
   weight = 3
 

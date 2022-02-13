@@ -28,15 +28,8 @@
       </div>
       {{ if or  .Site.Params.mobile .Site.Params.location .Site.Params.email }}         
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Contact Me</h6>
+        <h6 class="mb-4">Contattaci</h6>
         <ul class="list-unstyled">
-          {{ if .Site.Params.mobile }}
-          <li class="mb-3"><a class="text-dark" href="tel:{{ .Site.Params.mobile }}"><i
-                class="ti-mobile mr-3 text-primary"></i>{{ .Site.Params.mobile }}</a></li>
-          {{ end }}
-          {{ if .Site.Params.location }}           
-          <li class="mb-3"><i class="ti-location-pin mr-3 text-primary"></i>{{ .Site.Params.location }}</li>
-          {{ end }}
           {{ if .Site.Params.email }}           
           <li class="mb-3"><a class="text-dark" href="mailto:{{ .Site.Params.email }}"><i
                 class="ti-email mr-3 text-primary"></i>{{ .Site.Params.email }}</a>
@@ -54,7 +47,7 @@
         </ul>
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Categories</h6>
+        <h6 class="mb-4">Categorie</h6>
         {{- if isset .Site.Taxonomies "categories" }}
         {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
         <ul class="list-unstyled">
@@ -66,14 +59,6 @@
         </ul>
         {{- end }}
         {{- end }}
-      </div>
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Quick Links</h6>
-        <ul class="list-unstyled">
-          {{ range .Site.Menus.footer }}
-          <li class="mb-3"><a class="text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
-          {{ end }}
-        </ul>
       </div>
       <div class="col-12 border-top py-4 text-center">
         {{ .Site.Params.copyright | markdownify }}
@@ -99,7 +84,7 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+	Questo sito utilizza i cookie. Proseguendo nella navigazione accetti il loro utilizzo. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">Accetto</span>
 </div>
 <script>
 	(function ($) {

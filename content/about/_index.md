@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Su di noi"
 date: 2019-10-29T13:49:23+06:00
 draft: false
 
@@ -13,8 +13,5 @@ description: "this is meta description"
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+Siamo due ingegneri con la passione per la finanza e abbiamo deciso di creare Finanzami col fine di condividere quanto abbiamo appreso negli ultimi anni. Vogliamo che tutti possano conoscere cosa significa investire, come farlo in maniera equilibrata e quali sono gli strumenti più noti e affidabili.
+Per il resto vedremo dove ci porterà questo progetto!
