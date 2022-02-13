@@ -23,9 +23,6 @@
 <footer class="text-capitalize">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-12 text-center mb-5">
-        <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
-      </div>
       {{ if or  .Site.Params.mobile .Site.Params.location .Site.Params.email }}         
       <div class="col-lg-3 col-sm-6 mb-5">
         <h6 class="mb-4">Contattaci</h6>
@@ -45,20 +42,6 @@
           <li class="mb-3"><a class="text-dark" href="{{ .link | safeURL }}">{{ .title }}</a></li>
           {{ end }}
         </ul>
-      </div>
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Categorie</h6>
-        {{- if isset .Site.Taxonomies "categories" }}
-        {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
-        <ul class="list-unstyled">
-          {{- range $name, $items := .Site.Taxonomies.categories }}
-          <li class="mb-3"><a class="text-dark"
-              href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a>
-          </li>
-          {{- end }}
-        </ul>
-        {{- end }}
-        {{- end }}
       </div>
       <div class="col-12 border-top py-4 text-center">
         {{ .Site.Params.copyright | markdownify }}
