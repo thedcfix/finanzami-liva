@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="239.86" height="32.679" viewBox="0 0 3002 409">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fe6a6a;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #00ca72;
+      }
+
+      .cls-3 {
+        font-size: 528.333px;
+        font-family: "Plus Jakarta Sans";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <path id="Rettangolo_1" data-name="Rettangolo 1" class="cls-1" d="M9.851,289.868L154.392,39.611A75,75,0,0,1,256.848,12.176l0.866,0.5a75,75,0,0,1,27.435,102.456L140.608,365.39A75,75,0,0,1,38.152,392.824l-0.866-.5A75,75,0,0,1,9.851,289.868Z"/>
+  <path id="Rettangolo_1-2" data-name="Rettangolo 1" class="cls-2" d="M183.851,289.868L328.392,39.611A75,75,0,0,1,430.848,12.176l0.866,0.5a75,75,0,0,1,27.435,102.456L314.608,365.39a75,75,0,0,1-102.456,27.434l-0.866-.5A75,75,0,0,1,183.851,289.868Z"/>
+  <text id="finanzami" class="cls-3" x="589.206" y="402.688">finanzami</text>
+</svg>
