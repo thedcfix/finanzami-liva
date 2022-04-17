@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://brave-river-0dca46803.1.azurestaticapps.net/"
+baseURL = "https://finanzami.it/"
 languageCode = "it-it"
 title = "Finanzami"
 theme = "liva-hugo"
@@ -64,29 +64,32 @@ disqusShortname = ""
 [params]
 logo = "images/logo.svg"
 home = "Home"
+
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Finanzami"
+
 # Google Analitycs
 googleAnalitycsID = "Your ID"
+
 # Contact Information
 mobile = "0124857985320"
 email = "demo@email.com"
+
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2022 Finanzami |"
 
-  # Preloader
-  [params.preloader]
-  enable = true
-  preloader = "" # use .png , .svg or .gif format
+# Preloader
+ [params.preloader]
+ enable = true
+ preloader = "" # use .png , .svg or .gif format
 
-  # search
-  [params.search]
-  enable = true
+ # search
+ [params.search]
+ enable = true
 
 ############################ news letter ########################
 [params.newsletter]
-enable = true
+enable = false
 title = "Unisciti alla nostra newsletter"
 content = "Unendoti alla nostra newsletter riceverai una notifica appena pubblicheremo un nuovo articolo. Non perdertene neanche uno!"
 
@@ -94,13 +97,4 @@ content = "Unendoti alla nostra newsletter riceverai una notifica appena pubblic
 # cookies
 [params.cookies]
 enable = true
-expire_days = 2
-
-
-############################# social site ########################
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
+expire_days = 90
