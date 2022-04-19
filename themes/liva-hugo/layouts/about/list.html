@@ -1,5 +1,20 @@
 {{ define "main" }}
 
+<script type="text/javascript">
+
+  async function handleIt() {
+
+    var params = "";
+    params.concat("name=", document.getElementById('name').value, "&", "email=", document.getElementById('email').value, "&", "subject=", document.getElementById('subject').value, "&", "message=", document.getElementById('message').value);
+
+    var xhttp = new XMLHttpRequest();
+    xhttp.open("POST", "https://uldgknn2isq5ubesqqn6cdvtve0fkzji.lambda-url.eu-south-1.on.aws/", true);
+    xhttp.send(params);
+    window.setTimeout(function(){window.location.href = "http://localhost:1313/greeting/";}, 500);
+  }
+
+</script>
+
 <section class="section-sm">
   <div class="container">
     <div class="row">
@@ -18,9 +33,9 @@
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
         <h2 class="mb-4">Contattaci</h2>
-        <form action="#" method="POST" class="row">
+        <form action="javascript:handleIt()" method="POST" class="row">
           <div class="col-lg-6">
-            <input type="text" class="form-control mb-4" id="name" name="name" placeholder="Nome">
+            <input type="text" class="form-control mb-4" id="name" name="name" placeholder="Nome Cognome">
           </div>
           <div class="col-lg-6">
             <input type="email" class="form-control mb-4" id="email" name="email" placeholder="Email">
