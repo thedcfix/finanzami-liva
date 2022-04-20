@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://brave-river-0dca46803.1.azurestaticapps.net/"
+baseURL = "https://www.finanzami.it/"
 languageCode = "it-it"
 title = "Finanzami"
 theme = "liva-hugo"
