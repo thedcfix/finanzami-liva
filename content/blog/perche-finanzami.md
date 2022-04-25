@@ -1,7 +1,7 @@
 ---
 title: "Perchè finanzami"
 date: 2022-04-25T21:00:00+01:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/perche-finanzami.jpg"
