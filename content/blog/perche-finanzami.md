@@ -11,153 +11,18 @@ description: "Perchè finanzami"
 
 # taxonomies
 categories:
-  - "Investimento"
+  - "Startup"
 tags:
   - "Finanzami"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
-# Perchè Finanzami
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+Bene, bene, bene! Eccoci qua finalmente con il primo articolo del blog e non poteva non rispondere alla domanda delle domande: perchè? Già, perchè stiamo decidendo di creare un blog, nel 2022, per parlare di aromenti quali finanza, investimenti, startup, digital marketing e qualsiasi altra cosa ad essi connessa potrà passarmi per la testa in futuro?
 
-<hr>
+Ad essere onesto, non abbiamo esattamente una risposta in questo momento. Sappiamo solo a grandi linee quello che ci piacerebbe arrivare a creare e quello che ci intriga maggiormente è conoscere il percorso che sta nel mezzo. Ci piacerebbe arrivare ad avere un progetto imprenditoriale tutto nostro, un qualcosa di cui poter reclamare la paternità e che possa essere un nostro primo tentativo d'accesso al mondo dell'imprenditorialità. Non abbiamo ancora per nulla chiaro come il blog evolverà, come guadagneremo, se sarà un fallimento o un successo clamoroso ma sappiamo per certo che chi non inizia una gara non arriva mai alla fine.
 
-##### Emphasis
+E' esattamente per questo motivo che SBAM! Ecco il primo articolo. Dopo settimane passate a fare scouting tecnologico, a cercare di capire come le varie opzioni funzionassero, quali costi avessero, quali limitazioni e via dicendo...siamo arrivati ad una soluzione. Finanzami nasce come un blog nel quale vogliamo convogliare tutte queste esperienze e non solo, avviando diversi filoni di discussione riguardanti tematiche che ci appassionano e che ci vedono coinvolti in prima persona. Il passo più grande è stato senza dubbio iniziare e, come per noi, è esattamente ciò che blocca la maggior parte delle persone quando si tratta di avviare un'attività in proprio (che sia a fini di lucro o meno) ma ora ci siamo.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Dunque benvenuti a tutti "cari followers" [cit.]
