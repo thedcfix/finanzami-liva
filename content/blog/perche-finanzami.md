@@ -1,6 +1,6 @@
 ---
 title: "Perchè finanzami"
-date: 2022-04-25T17:00:00+01:00
+date: 2022-05-07T17:00:00+01:00
 draft: false
 
 # post thumb
